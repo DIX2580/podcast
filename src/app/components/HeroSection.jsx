@@ -69,7 +69,7 @@ const WelcomeSection = () => {
                 animate="visible"
                 variants={textVariants}
               >
-                the forefront of India's burgeoning ₹120 lakh
+                the forefront of Indias burgeoning ₹120 lakh
               </motion.p>
               <motion.p
                 className="text-base text-white font-bold"
